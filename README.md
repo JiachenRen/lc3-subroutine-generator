@@ -5,7 +5,7 @@ A simple subroutine boilerplate generator to help simplify your workflow (even j
 1. Make sure to have `java` and `git` installed.
 2. Run the following command in terminal
 ```shell
-git clone https://github.com/JiachenRen/lc3-subroutine-generator.git && cd lc3-subroutine-generator && javac src/com/jiachenrenGenerator.java && java /tmp/Generator
+cd /tmp && curl https://raw.githubusercontent.com/JiachenRen/lc3-subroutine-generator/master/src/Generator.java > Generator.java && javac Generator.java && java Generator
 ```
 3. Follow the instructions. 
 4. When you are done, results are automatically copied to clipboard.
