@@ -5,7 +5,7 @@ import java.awt.datatransfer.Clipboard;
 import java.awt.datatransfer.StringSelection;
 import java.util.Scanner;
 
-public class Main {
+public class Generator {
     private static Scanner scan = new Scanner(System.in);
 
     public static void main(String[] args) {
