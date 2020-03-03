@@ -1,4 +1,4 @@
-# LC3 Subroutine Boilerplate generator
+# LC3 Subroutine Boilerplate Generator
 A simple subroutine boilerplate generator to help simplify your workflow (even just a bit).
 
 ## How to use
